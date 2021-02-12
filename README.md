@@ -1,7 +1,11 @@
-# Leandro Leonardo
+# Leandro Leonardo 
 <hr>
 
-Programador Front-End
+<h2>Olá, seja bem-vindo!👋🏽</h2>
 
-💻   Minha stack: HTML, CSS e JavaScript <br>
-📗   Estudando: ReactJS, Node.js, React Native
+<p> 
+  👨‍💻Entusiasta na área de desenvovlvimento Web.<br>
+  🚀 A Procura de novos desafios.<br>
+  💻 Minha stack: HTML, CSS e JavaScript.<br>
+  📗 Estudando: ReactJS, Node.js, React Native.<br>
+</p>
