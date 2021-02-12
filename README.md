@@ -1,5 +1,4 @@
 # Leandro Leonardo 
-<hr>
 
 <h2>What's up?👋🏽</h2>
 
