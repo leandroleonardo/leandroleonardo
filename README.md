@@ -8,19 +8,18 @@ Sou um entusiasta na área de desenvolvimento Web.
 
 💻 Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![jQuery](http://img.shields.io/badge/-jQuery-5391FE?style=flat-square&logo=jQuery&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-OracleSQL-black?style=black&logo=oracle&logoColor=red)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-red?style=red&logo=Java&logoColor=white)
 
 📚 Estudando
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=mongoDb&logoColor=ffffff)
 
 <hr>
