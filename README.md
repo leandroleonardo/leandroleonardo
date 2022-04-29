@@ -15,7 +15,6 @@ Sou um entusiasta na área de desenvolvimento Web.
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-OracleSQL-black?style=black&logo=oracle&logoColor=red)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-red?style=red&logo=Java&logoColor=white)
 
 📚 Estudando
 
