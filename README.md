@@ -1,25 +1,21 @@
 
 # Olá, me chamo Leandro 
 
-Sou um entusiasta na área de desenvolvimento Web.
+Estudande de Análise e desenvolvimento de sistemas e apaixonado </br> pelas principais tecnologias de desenvolvimento de software. 
 
 <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroleonardo&layout=compact&langs_count=7&theme=dracula"/>
 
 
 💻 Stack
 
-
+![Javascript](https://img.shields.io/badge/-Javascript-fff642?style=black&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![jQuery](http://img.shields.io/badge/-jQuery-5391FE?style=flat-square&logo=jQuery&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-OracleSQL-black?style=black&logo=oracle&logoColor=red)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![SQL-Server](https://img.shields.io/badge/-OracleSQL-fff?style=black&logo=microsoftsqlserver&logoColor=red)
 
 📚 Estudando
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=mongoDb&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=SpringBoot&logoColor=white)
 
 <hr>
 <div align="center">
