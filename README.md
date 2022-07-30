@@ -10,7 +10,7 @@ Estudande de Análise e desenvolvimento de sistemas e apaixonado </br> pelas pri
 
 ![Javascript](https://img.shields.io/badge/-Javascript-fff642?style=black&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![SQL-Server](https://img.shields.io/badge/-OracleSQL-fff?style=black&logo=microsoftsqlserver&logoColor=red)
+![SQL-Server](https://img.shields.io/badge/-SQLServer-fff?style=black&logo=microsoftsqlserver&logoColor=red)
 
 📚 Estudando
 
