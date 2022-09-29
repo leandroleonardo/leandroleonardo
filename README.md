@@ -1,23 +1,25 @@
 
-# Olá, me chamo Leandro 
+# Olá, me chamo Leandro! 
 
-Estudande de Análise e desenvolvimento de sistemas e apaixonado </br> pelas principais tecnologias de desenvolvimento de software. 
+<img align='right' height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroleonardo&layout=compact&langs_count=7&theme=dracula"/>
 
-<img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroleonardo&layout=compact&langs_count=7&theme=dracula"/>
-
+Estudande de Análise e desenvolvimento de sistemas e apaixonado </br> pelas principais
+tecnologias de desenvolvimento de software. Atualmente
+</br> trabalho como Quality Assurance para a Cronapp.
 
 💻 Stack
 
 ![Javascript](https://img.shields.io/badge/-Javascript-fff642?style=black&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=ffffff)
 ![SQL-Server](https://img.shields.io/badge/-SQLServer-fff?style=black&logo=microsoftsqlserver&logoColor=red)
 
 📚 Estudando
 
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=SpringBoot&logoColor=white)
+![Low Code+](https://img.shields.io/badge/-LowCode+-blueviolet?&logo=code&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?&logo=SpringBoot&logoColor=white)
 
-<hr>
+#
 <div align="center">
 <br>
 <i>Follow me:</i><br>
