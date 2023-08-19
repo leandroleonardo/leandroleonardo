@@ -3,7 +3,7 @@
 
 <img align='right' height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroleonardo&layout=compact&langs_count=7&theme=dracula"/>
 
-Estudande de Análise e desenvolvimento de sistemas e apaixonado </br> pelas principais
+Formado em Análise e desenvolvimento de sistemas e apaixonado </br> pelas principais
 tecnologias de desenvolvimento de software. Atualmente
 </br> trabalho como Quality Assurance para a Cronapp.
 
