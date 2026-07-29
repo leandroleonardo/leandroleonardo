@@ -1,8 +1,6 @@
-Hello, my name is Leandro!
+👋 Olá! Eu sou Leandro
 
-Sou Analista de Quality Assurance (QA), com experiência em testes manuais e automação de testes utilizando Cypress, Playwright e JavaScript. Também possuo experiência em desenvolvimento mobile com React Native e TypeScript, o que me proporciona uma visão mais ampla do ciclo de desenvolvimento de software.
-
-Atualmente, estou me especializando em Engenharia de Qualidade de Software pela PUC Minas, aprofundando meus conhecimentos em qualidade, automação de testes e boas práticas de desenvolvimento.
+Sou QA Automation (QA), com experiência em testes manuais e automação de testes utilizando Cypress, Playwright. Também possuo experiência em desenvolvimento mobile com React Native e TypeScript, o que me proporciona uma visão mais ampla do ciclo de desenvolvimento de software. Atualmente, estou me especializando em Engenharia de Qualidade de Software pela PUC Minas, aprofundando meus conhecimentos em qualidade, automação de testes e boas práticas de desenvolvimento.
 
 🚀 Stack:
 
